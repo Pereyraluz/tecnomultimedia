@@ -20,7 +20,7 @@ void setup ()
   size(640,480);
   background (0);
   fill(200,0,0);
-  texto= loadFont ( "ArialItalicMT48.vlw");
+  texto= loadFont ( "ArialItalicMT-48.vlw");
   textFont( texto,40);
   imagen1 = loadImage ("tren1.jpg");
   imagen2 = loadImage ("tren2.jpg");
